@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/francesco-laiti/">
     <img align="left" alt="laitifranz's LinkedIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
   </a>
-  <a href="https://www.instagram.com/laitifranz/">
+  <a href="https://www.instagram.com/laiti.franz/">
     <img align="left" alt="laitifranz's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
   </a>
    <a href="https://www.youtube.com/channel/UCunETK_PtmM07tlOI2FQQhw">
