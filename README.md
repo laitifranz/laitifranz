@@ -15,13 +15,15 @@
 
 <br>
 <br>
-I am a passionate self-taught Master's student from Italy 🇮🇹
+I am a passionate AI student from Italy 🇮🇹
 
 - 🌱 I'm currently studying Artificial Intelligence Systems path Computer Vision @ UniTN
 - 🎓 I did my Bachelor degree's in Information and Communication Engineering @ UniTN
 - 🎞 I am a photography and video editing enthusiast!
 - 🔭 Currently learning about AR/VR technologies
 - 🍎 lover!
+
+On my GitHub profile, you will find both personal and educational projects 👀
 
 ### Language and Tools
 
@@ -30,17 +32,18 @@ I am a passionate self-taught Master's student from Italy 🇮🇹
 <a href="https://cplusplus.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cpluplus" height="42px"/> </a> 
 <a href="https://learn.microsoft.com/it-it/dotnet/csharp/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="csharp" height="42px"/> </a> 
 <a href="https://www.apple.com/swift/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" height="42px"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="42px"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" height="42px"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" height="42px"/> </a> 
 <a href="https://jupyter.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="42px"/> </a> 
 <a href="https://unity.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="unity" height="42px"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="42px"/> </a> 
 
 <br>
 
 ## 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laitifranz&layout=compact)](https://github.com/laitifranz)
+
 
 
 <!--
