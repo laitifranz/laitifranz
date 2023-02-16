@@ -25,7 +25,7 @@ I am a passionate AI student from Italy 🇮🇹
 
 On my GitHub profile, you will find both personal and educational projects 👀
 
-### Language and Tools
+### Languages and Tools
 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="42px"/> </a> 
