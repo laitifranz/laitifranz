@@ -7,7 +7,7 @@
     <img align="center" alt="laitifranz's Stackoverflow" width="29px" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-1024.png" />
   </a>
   <a href="https://www.linkedin.com/in/francesco-laiti/">
-    <img align="center" alt="laitifranz's LinkedIN" width="29px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
+    <img align="center" alt="laitifranz's LinkedIn" width="29px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
   </a>
    <a href="https://www.youtube.com/channel/UCunETK_PtmM07tlOI2FQQhw">
     <img align="center" alt="laitifranz's YouTube" width="29px" src="https://cdn2.iconfinder.com/data/icons/social-media-icon-set-6/94/youtube-1024.png" />
@@ -20,7 +20,8 @@ I am a passionate AI student from Italy 🇮🇹
 - 🌱 I'm currently studying Artificial Intelligence Systems path Computer Vision @ UniTN
 - 🎓 I did my Bachelor degree's in Information and Communication Engineering @ UniTN
 - 🎞 I am a photography and video editing enthusiast!
-- 🔭 Currently learning about AR/VR technologies
+- 🥽 Experienced with AR/VR technologies
+- 🔭 Currently learning in-depth ML/DL
 - 🍎 lover!
 
 On my GitHub profile, you will find both personal and educational projects 👀
