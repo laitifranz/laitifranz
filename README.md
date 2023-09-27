@@ -28,20 +28,19 @@ On my GitHub profile, you will find both personal and educational projects 👀
 
 ### Languages and Tools
 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="42px"/> </a> 
-<a href="https://cplusplus.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cpluplus" height="42px"/> </a> 
-<a href="https://learn.microsoft.com/it-it/dotnet/csharp/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="csharp" height="42px"/> </a> 
-<a href="https://www.apple.com/swift/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" height="42px"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="42px"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" height="42px"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" height="42px"/> </a> 
-<a href="https://jupyter.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="42px"/> </a> 
-<a href="https://unity.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="unity" height="42px"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="42px"/> </a> 
+<a href="https://cplusplus.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cpluplus" height="42px"/> </a> 
+<a href="https://learn.microsoft.com/it-it/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="csharp" height="42px"/> </a> 
+<a href="https://www.apple.com/swift/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" height="42px"/> </a> 
 
-<br>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" alt="docker" height="42px"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" height="42px"/> </a> 
+<a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="42px"/> </a> 
+<a href="https://www.apple.com/final-cut-pro/" target="_blank"> <img src="https://help.apple.com/assets/62671FD031A3FC08F2607E4E/62671FD331A3FC08F2607E5D/en_US/97f5f4dfe6df84d78caacff68ec63538.png" alt="finalcutpro" height="42px"/> </a> 
+<a href="https://unity.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="unity" height="42px"/> </a> 
 
-## 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laitifranz&layout=compact)](https://github.com/laitifranz)
 
