@@ -1,9 +1,10 @@
 ## Hi there! 👋
 
-**I'm Francesco** - a Machine Learning enthusiast from Italy 🇮🇹
+**I'm Francesco** from Italy 🇮🇹
 
-- 🌱 Master's in **Artificial Intelligence Systems** with a focus on **Computer Vision** @ UniTN
-- 🎓 Bachelor's in **Information and Communication Engineering** @ UniTN
+- 🧠 PhD Student in **Machine Learning** @ UniPisa/UniTrento
+- 🌱 MSc in **AI Systems & Computer Vision** @ UniTrento
+- 🎓 BSc in **Info and Comm Engineering** @ UniTrento
 - 🔭 Keen on exploring cutting-edge Deep Learning frameworks and AI innovations
 - 🔗 Driven to translate research into practical, real-world solutions
 - 🥽 Hands-on with AR/VR technologies
