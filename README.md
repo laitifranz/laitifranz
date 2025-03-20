@@ -1,19 +1,24 @@
-## Hi there! 👋
+## Hey! I'm Francesco
 
-**I'm Francesco** from Italy 🇮🇹
-
-- 🧠 PhD Student in **Machine Learning** @ UniPisa/UniTrento
-- 🌱 MSc in **AI Systems & Computer Vision** @ UniTrento
-- 🎓 BSc in **Info and Comm Engineering** @ UniTrento
-- 🔭 Keen on exploring cutting-edge Deep Learning frameworks and AI innovations
-- 🔗 Driven to translate research into practical, real-world solutions
-- 🥽 Hands-on with AR/VR technologies
-- 🎞 Photography and video editing devotee!
+- 🚀 PhD Student in Machine Learning @ UniPisa/UniTrento
+- 🤖 Exploring AI innovations & cool frameworks
 - 🍎 lover!
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,py,cpp,swift,bash,docker,git,vscode,unity,apple" alt="Francesco's Skills"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,py,swift,docker,git,apple" alt="Francesco's Skills"/>
 </p>
+
+
+<!--
+- 🌱 MSc in **AI Systems & Computer Vision** @ UniTrento
+- 🎓 BSc in **Info and Comm Engineering** @ UniTrento
+- 🥽 Hands-on with AR/VR technologies
+- 🎞 Big fan of photography & video editing
+- 🔭 Keen on exploring cutting-edge Deep Learning frameworks and AI innovations
+- 🔗 Driven to translate research into practical, real-world solutions
+-->
+
+<!--
 
 <details>
   <summary align="center">GitHub Stats :chart_with_upwards_trend:</summary>
@@ -25,7 +30,7 @@
 </details>
 
 
-<!--
+
 
 <p>
   <a href="https://stackoverflow.com/users/8943214/francesco-laiti"><img src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-1024.png" width="29px" style="margin-right: 20px;" alt="laitifranz's Stackoverflow"/></a>
